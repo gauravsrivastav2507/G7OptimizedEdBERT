@@ -1,7 +1,7 @@
 streamlit
-transformers
-pandas
 matplotlib
+pandas
 seaborn
+transformers
 scikit-learn
 wordcloud
